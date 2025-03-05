@@ -1,6 +1,6 @@
 TITLE 
 
-     Rock-Paper-Scissors game
+     Rock-Paper-Scissors Game
 
 
 DESCRIPTION
