@@ -35,6 +35,6 @@ HOW TO RUN THE GAME?
     • Open the HTML file on a browser
       (through Live Server on VS code or other applicable options)
       
-    • The game will automatically start running in the browser
+    • The game will automatically start running in the browser.
 
 
