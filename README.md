@@ -11,7 +11,7 @@ DESCRIPTION
 
 AN OUTLINE OF THE CODE
 
-     •	Initialized 4 variables to 0 to calculate the :
+     •	Initialized 4 variables to 0 to calculate the:
   
       1.	Number of rounds played = count
       2.	Player Score = ps
